@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+  <title>Kasa Ceramics product feed</title>
+  <link>https://kasa-ceramics.example</link>
+  <description>Wholesale feed</description>
+  <item>
+    <g:id>KC-0001</g:id>
+    <g:item_group_id>KC-2200</g:item_group_id>
+    <g:title>KARI BOWL SMALL - ROSE H25</g:title>
+    <g:description>The Kari in its smaller format is perfectly scaled for individual servings, dipping sauces or a morning bowl of fruit. Mouthblown and turned by hand, each piece inherits the organic, slightly irregular shape that defines the series - no two are identical. &amp;#8226; Height 25 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/kari-1</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300912-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300912-1_cd10e3a2-acaf-4a03-8403-d5121de98d6e.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300912-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300912-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>29.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600014</g:gtin>
+    <g:mpn>KC0001</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Small - Rose</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0002</g:id>
+    <g:item_group_id>KC-2200</g:item_group_id>
+    <g:title>KARI BOWL SMALL - LIGHT BLUE H18</g:title>
+    <g:description>The Kari in its smaller format is perfectly scaled for individual servings, dipping sauces or a morning bowl of fruit. Mouthblown and turned by hand, each piece inherits the organic, slightly irregular shape that defines the series - no two are identical. &amp;#8226; Height 18 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/kari-2</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300911-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300911-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300911-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300911-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>29.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600021</g:gtin>
+    <g:mpn>KC0002</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Small - Light Blue</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0003</g:id>
+    <g:item_group_id>KC-2200</g:item_group_id>
+    <g:title>KARI BOWL SMALL - BLUE H32</g:title>
+    <g:description>The Kari in its smaller format is perfectly scaled for individual servings, dipping sauces or a morning bowl of fruit. Mouthblown and turned by hand, each piece inherits the organic, slightly irregular shape that defines the series - no two are identical. &amp;#8226; Height 32 cm &amp;#8226; Diameter 10 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/kari-3</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300910-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300910-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300910-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300910-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>29.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600038</g:gtin>
+    <g:mpn>KC0003</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Small - Blue</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0004</g:id>
+    <g:item_group_id>KC-2201</g:item_group_id>
+    <g:title>BODIL BOWL CARAMEL/ROSE H12</g:title>
+    <g:description>This Bodil in festive Christmas colours celebrates the season with handmade stoneware and signature graphic stripes. Finished by hand in 100% ceramic, each piece brings the Bodil series' distinctive aesthetic to a warm holiday palette. &amp;#8226; Height 12 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Ceramic &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/bodil-4</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301299-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301299-1_8bd5d0b3-b899-4ea8-a14f-fcb40af0cb60.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301299-2_2eb770cb-f73b-4bc6-92c9-ed55f154c16b.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301299-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>68.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600045</g:gtin>
+    <g:mpn>KC0004</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Caramel/Rose</g:color>
+    <g:material>Ceramic</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0005</g:id>
+    <g:item_group_id>KC-2201</g:item_group_id>
+    <g:title>BODIL BOWL BLACK/WHITE H12</g:title>
+    <g:description>The Bodil brings graphic, stylish character to any interior with its distinctive handmade stripe pattern. Crafted from stoneware, each piece carries its own subtle character due to the hand-applied design. &amp;#8226; Height 12 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Stoneware &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/bodil-5</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L10231-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L10231-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L10231-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L10231-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>68.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600052</g:gtin>
+    <g:mpn>KC0005</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Black/White</g:color>
+    <g:material>Stoneware</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0006</g:id>
+    <g:item_group_id>KC-2201</g:item_group_id>
+    <g:title>BODIL BOWL CLAY H12</g:title>
+    <g:description>Part of Kasa Design's 10-year Anniversary Limited Edition, this Bodil presents the iconic stripe design in a softer, more earthy tone. The natural, Nordic palette gives the piece a refined, contemporary feel. &amp;#8226; Height 12 cm &amp;#8226; Diameter 10 cm &amp;#8226; Material: Stoneware &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/bodil-6</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300681-0.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>69.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600069</g:gtin>
+    <g:mpn>KC0006</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Clay</g:color>
+    <g:material>Stoneware</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0007</g:id>
+    <g:item_group_id>KC-2202</g:item_group_id>
+    <g:title>KJELL BOWL LARGE H32</g:title>
+    <g:description>The Kjell series combines a modern silhouette with the warmth of handmade craft. Each bowl is shaped individually, so subtle variations in form and finish are inherent to the process - the mark of genuine handwork rather than mass production. &amp;#8226; Height 32 cm &amp;#8226; Diameter 10 cm &amp;#8226; Material: Terracotta &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/kjell-7</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301128-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301128-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301128-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301128-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>59.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600076</g:gtin>
+    <g:mpn>KC0007</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Large</g:color>
+    <g:material>Terracotta</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0008</g:id>
+    <g:item_group_id>KC-2202</g:item_group_id>
+    <g:title>KJELL BOWL MEDIUM - DARK OLIVE H12</g:title>
+    <g:description>The Kjell series combines a modern silhouette with the warmth of handmade craft. Each bowl is shaped individually, so subtle variations in form and finish are part of its appeal - the result of real hands and real heat, not factory uniformity. &amp;#8226; Height 12 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Stoneware &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/kjell-8</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301207-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301207-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301207-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301207-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>28.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600083</g:gtin>
+    <g:mpn>KC0008</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Medium - Dark Olive</g:color>
+    <g:material>Stoneware</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0009</g:id>
+    <g:item_group_id>KC-2202</g:item_group_id>
+    <g:title>KJELL BOWL MEDIUM - BUTTER H18</g:title>
+    <g:description>The Kjell series combines a modern silhouette with the warmth of handmade craft. Each bowl is shaped individually, so subtle variations in form and finish are part of its appeal - the result of real hands and real heat, not factory uniformity. &amp;#8226; Height 18 cm &amp;#8226; Diameter 10 cm &amp;#8226; Material: Stoneware &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/kjell-9</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301127-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301127-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301127-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301127-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>28.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600090</g:gtin>
+    <g:mpn>KC0009</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Medium - Butter</g:color>
+    <g:material>Stoneware</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0010</g:id>
+    <g:item_group_id>KC-2203</g:item_group_id>
+    <g:title>IVER BOWL CHRISTMAS EDITION H32</g:title>
+    <g:description>The Iver belongs to one of Kasa's most enduring series. First introduced in 2017, the Iver collection is defined by its graphic, horizontal stripes - a signature detail that has since expanded across a full range of ceramic pieces. &amp;#8226; Height 32 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Ceramic &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/iver-10</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301298-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301298-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301298-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301298-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>54.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600106</g:gtin>
+    <g:mpn>KC0010</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Christmas Edition</g:color>
+    <g:material>Ceramic</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0011</g:id>
+    <g:item_group_id>KC-2203</g:item_group_id>
+    <g:title>IVER BOWL ANNIVERSARY EDITION H25</g:title>
+    <g:description>The Iver belongs to one of Kasa's most enduring series. First introduced in 2017, the Iver collection is defined by its graphic, horizontal stripes - a signature detail that has since expanded across a full range of ceramic pieces. &amp;#8226; Height 25 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Ceramic &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/iver-11</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300682-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300682-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300682-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300682-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>49.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600113</g:gtin>
+    <g:mpn>KC0011</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Anniversary Edition</g:color>
+    <g:material>Ceramic</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0012</g:id>
+    <g:item_group_id>KC-2203</g:item_group_id>
+    <g:title>IVER BOWL WHITE/BLACK H32</g:title>
+    <g:description>The Iver belongs to one of Kasa's most enduring series. First introduced in 2017, the Iver collection is defined by its graphic, horizontal stripes - a signature detail that has since expanded across a full range of ceramic pieces. &amp;#8226; Height 32 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Ceramic &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/iver-12</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300250-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300250-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300250-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300250-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>49.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600120</g:gtin>
+    <g:mpn>KC0012</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>White/Black</g:color>
+    <g:material>Ceramic</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0013</g:id>
+    <g:item_group_id>KC-2204</g:item_group_id>
+    <g:title>Dagny Glass Amber - Pack of 2</g:title>
+    <g:description>Elevate every drink with the Dagny, mouth-blown and finished by hand. Each glass carries a distinctive striped pattern that catches the light beautifully, making cocktails, soft drinks, or simple water feel like a small occasion. &amp;#8226; Height 32 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/dagny-13</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301091-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301091-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301091-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301091-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>19.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600137</g:gtin>
+    <g:mpn>KC0013</g:mpn>
+    <g:google_product_category>2169</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Glasss</g:product_type>
+    <g:color>Amber - Pack of 2</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0014</g:id>
+    <g:item_group_id>KC-2204</g:item_group_id>
+    <g:title>Dagny Glass Clear - Pack of 2</g:title>
+    <g:description>The Dagny in Clear brings timeless elegance to the table with delicate clear stripes that add texture and visual interest without overpowering the setting. Mouth-blown and hand-finished, each glass is subtly unique. &amp;#8226; Height 32 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/dagny-14</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300544-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300544-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300544-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300544-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>29.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600144</g:gtin>
+    <g:mpn>KC0014</g:mpn>
+    <g:google_product_category>2169</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Glasss</g:product_type>
+    <g:color>Clear - Pack of 2</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0015</g:id>
+    <g:item_group_id>KC-2204</g:item_group_id>
+    <g:title>Dagny Glass Rose - Pack of 2</g:title>
+    <g:description>Bring colour and craftsmanship to the table with the Dagny. Each glass is mouth-blown with handmade striped details, ensuring no two pieces are identical. The vibrant stripes make a cheerful statement whether hosting or enjoying a quiet drink at home. &amp;#8226; Height 18 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/dagny-15</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301090-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301090-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301090-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301090-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>29.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:mpn>KC0015</g:mpn>
+    <g:google_product_category>2169</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Glasss</g:product_type>
+    <g:color>Rose - Pack of 2</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0016</g:id>
+    <g:item_group_id>KC-2205</g:item_group_id>
+    <g:title>Liv Glass Pack of 2 - Blue</g:title>
+    <g:description>The Liv is a handmade drinking glass with a signature swirl pattern running through its surface. Crafted by a skilled artisan, each piece carries its own distinct pattern and character. A sculptural, eye-catching addition to any table setting. &amp;#8226; Height 25 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/liv-16</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301056-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301056-1_1db0f9dc-283a-4756-9a6d-5863c389c59c.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301056-2_0e90c316-5e44-45e7-b740-a82b7fdce244.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301056-3_e113f64a-cae4-4fe8-9e80-3d0bce0d6d34.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>29.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:mpn>KC0016</g:mpn>
+    <g:google_product_category>2169</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Glasss</g:product_type>
+    <g:color>Pack of 2 - Blue</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0017</g:id>
+    <g:item_group_id>KC-2205</g:item_group_id>
+    <g:title>Liv Glass Pack of 2 - Rose</g:title>
+    <g:description>The Liv is a handmade drinking glass with a signature swirl pattern running through its surface. Crafted by a skilled artisan, each piece carries its own distinct pattern and character. A sculptural, eye-catching addition to any table setting. &amp;#8226; Height 25 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/liv-17</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301055-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301055-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301055-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301055-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>29.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:mpn>KC0017</g:mpn>
+    <g:google_product_category>2169</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Glasss</g:product_type>
+    <g:color>Pack of 2 - Rose</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0018</g:id>
+    <g:item_group_id>KC-2205</g:item_group_id>
+    <g:title>Liv Glass Pack of 2 - Grey</g:title>
+    <g:description>The Liv is a handmade drinking glass with a signature swirl pattern running through its surface. Crafted by a skilled artisan, each piece carries its own distinct pattern and character. A sculptural, eye-catching addition to any table setting. &amp;#8226; Height 18 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/liv-18</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301054-0_4994192f-32c8-4a60-bedf-087e72276991.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301054-1_d1dd6a37-9eb1-47b7-b7f6-84ddcbe8ad13.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301054-2_9cf18534-daee-467c-91eb-c19caa91db51.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301054-3_4975ad1e-04a2-42fc-a8d4-41efee4f68c8.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>29.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:mpn>KC0018</g:mpn>
+    <g:google_product_category>2169</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Glasss</g:product_type>
+    <g:color>Pack of 2 - Grey</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0019</g:id>
+    <g:item_group_id>KC-2206</g:item_group_id>
+    <g:title>Oda Glass White</g:title>
+    <g:description>The Oda is a handmade drinking glass with a distinctive spot pattern and rounded, comfortable form. Available in white, amber, rose, and lavender, these glasses are designed to be collected and combined for a playful, colourful table. &amp;#8226; Height 18 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/oda-19</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300376-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300376-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300376-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300376-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>17.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:mpn>KC0019</g:mpn>
+    <g:google_product_category>2169</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Glasss</g:product_type>
+    <g:color>White</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0020</g:id>
+    <g:item_group_id>KC-2206</g:item_group_id>
+    <g:title>Oda Glass Rose</g:title>
+    <g:description>The Oda is a handmade drinking glass with a distinctive spot pattern and rounded, comfortable form. Available in white, amber, rose, and lavender, these glasses are designed to be collected and combined for a playful, colourful table. &amp;#8226; Height 32 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/oda-20</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300375-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300375-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300375-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300375-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>14.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600206</g:gtin>
+    <g:mpn>KC0020</g:mpn>
+    <g:google_product_category>2169</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Glasss</g:product_type>
+    <g:color>Rose</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0021</g:id>
+    <g:item_group_id>KC-2206</g:item_group_id>
+    <g:title>Oda Glass Lavender</g:title>
+    <g:description>Serve your favourite drinks in the handcrafted Oda by Kasa Design. Featuring the series' signature hand-applied spot pattern in a chubby, rounded shape, each glass is comfortable to hold and beautiful on the table. &amp;#8226; Height 25 cm &amp;#8226; Diameter 10 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/oda-21</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300374-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300374-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300374-2_1a6d4a89-7d9e-4cc7-b33a-95820285c44f.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L300374-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>14.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600213</g:gtin>
+    <g:mpn>KC0021</g:mpn>
+    <g:google_product_category>2169</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Glasss</g:product_type>
+    <g:color>Lavender</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0022</g:id>
+    <g:item_group_id>KC-2207</g:item_group_id>
+    <g:title>Asta Bowl Caramel / Ice Blue</g:title>
+    <g:description>A plate and bowl set from Kasa's Asta series, made from biodegradable PLA - a plant-based material that is durable and dishwasher safe. The clean, minimal form in taupe and vanilla is designed for everyday children's meals. &amp;#8226; Height 25 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Stoneware &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/asta-22</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107567-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107567-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107567-2.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>28.00 EUR</g:price>
+    <g:sale_price>21.00 EUR</g:sale_price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600229</g:gtin>
+    <g:mpn>KC0022</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Caramel / Ice Blue</g:color>
+    <g:material>Stoneware</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0023</g:id>
+    <g:item_group_id>KC-2207</g:item_group_id>
+    <g:title>Asta Bowl Rose / Apricot</g:title>
+    <g:description>A plate and bowl set from Kasa's Asta series, made from biodegradable PLA - a plant-based material that is durable and dishwasher safe. The clean, minimal form in caramel and ice blue is designed for everyday children's meals. &amp;#8226; Height 18 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Stoneware &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/asta-23</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107568-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107568-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107568-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107568-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>28.00 EUR</g:price>
+    <g:sale_price>21.00 EUR</g:sale_price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600236</g:gtin>
+    <g:mpn>KC0023</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Rose / Apricot</g:color>
+    <g:material>Stoneware</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0024</g:id>
+    <g:item_group_id>KC-2207</g:item_group_id>
+    <g:title>Asta Bowl Taupe / Vanilla</g:title>
+    <g:description>A plate and bowl set from Kasa's Asta series, made from biodegradable PLA - a plant-based material that is durable and dishwasher safe. The clean, minimal form in rose and apricot is designed for everyday children's meals. &amp;#8226; Height 18 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Stoneware &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/asta-24</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107566-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107566-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107566-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/M107566-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>19.00 EUR</g:price>
+    <g:sale_price>14.25 EUR</g:sale_price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600243</g:gtin>
+    <g:mpn>KC0024</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Taupe / Vanilla</g:color>
+    <g:material>Stoneware</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0025</g:id>
+    <g:item_group_id>KC-2208</g:item_group_id>
+    <g:title>Alva Bowl Clay</g:title>
+    <g:description>The Alva Bowl – Large is a beloved piece from Kasa Design's iconic Alva collection. Each stripe is carefully hand-painted by a dedicated team of skilled artisans, making every bowl a unique collector's item with individual character. &amp;#8226; Height 25 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Stoneware &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/alva-25</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301189-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301189-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301189-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301189-3.jpg</g:additional_image_link>
+    <g:availability>out_of_stock</g:availability>
+    <g:price>68.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600250</g:gtin>
+    <g:mpn>KC0025</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Clay</g:color>
+    <g:material>Stoneware</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0026</g:id>
+    <g:item_group_id>KC-2208</g:item_group_id>
+    <g:title>Alva Bowl Caramel/Rose</g:title>
+    <g:description>The Alva Bowl – Large is a standout piece from Kasa Design's much-loved Alva collection. Meticulously hand-painted in a graphic stripe pattern by a consistent team of artisans, each bowl is a unique collector's item. &amp;#8226; Height 12 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Stoneware &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/alva-26</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301190-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301190-2.jpg</g:additional_image_link>
+    <g:availability>out_of_stock</g:availability>
+    <g:price>68.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600267</g:gtin>
+    <g:mpn>KC0026</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Caramel/Rose</g:color>
+    <g:material>Stoneware</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0027</g:id>
+    <g:item_group_id>KC-2208</g:item_group_id>
+    <g:title>Alva Bowl Caramel/Lavender</g:title>
+    <g:description>The Alva Bowl – Large is a beloved piece from Kasa Design's iconic Alva collection. Each stripe is carefully hand-painted by a dedicated team of skilled artisans, making every bowl a unique collector's item with individual character. &amp;#8226; Height 25 cm &amp;#8226; Diameter 10 cm &amp;#8226; Material: Stoneware &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/alva-27</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301542-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301542-1.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301542-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301542-3.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>69.00 EUR</g:price>
+    <g:brand>KASA</g:brand>
+    <g:gtin>6412345600274</g:gtin>
+    <g:mpn>KC0027</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Caramel/Lavender</g:color>
+    <g:material>Stoneware</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0028</g:id>
+    <g:item_group_id>KC-2209</g:item_group_id>
+    <g:title>Jens Bowl Small - Olive</g:title>
+    <g:description>The Jens in glass features a playful, bubble-speckled surface that catches and refracts light. Mouthblown with a square foot, it balances a modern geometric base with the gentle irregularity of handcrafted glass - each piece varies slightly in form. &amp;#8226; Height 12 cm &amp;#8226; Diameter 14 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/jens-28</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301333-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301333-1.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>34.00 EUR</g:price>
+    <g:brand>KASA</g:brand>
+    <g:gtin>6412345600281</g:gtin>
+    <g:mpn>KC0028</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Small - Olive</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0029</g:id>
+    <g:item_group_id>KC-2209</g:item_group_id>
+    <g:title>Jens Bowl Small - Clear</g:title>
+    <g:description>The Jens in glass features a playful, bubble-speckled surface that catches and refracts light. Mouthblown with a square foot, it balances a modern geometric base with the gentle irregularity of handcrafted glass - each piece varies slightly in form. &amp;#8226; Height 32 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Glass &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/jens-29</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/L301332-0.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>34.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600298</g:gtin>
+    <g:mpn>KC0029</g:mpn>
+    <g:google_product_category>6087</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Bowls</g:product_type>
+    <g:color>Small - Clear</g:color>
+    <g:material>Glass</g:material>
+    <g:condition>new</g:condition>
+  </item>
+  <item>
+    <g:id>KC-0030</g:id>
+    <g:item_group_id>KC-2210</g:item_group_id>
+    <g:title>Vera Plant pot Khaki (set of 3)</g:title>
+    <g:description>A set of three 100% cotton hanging pots in khaki with brown string, in three sizes - ø17 × H 16 cm, ø21 × H 20 cm, and ø25 × H 24 cm. The iron frame holds the fabric pot at each level with a clean, minimal suspension. &amp;#8226; Height 25 cm &amp;#8226; Diameter 20 cm &amp;#8226; Material: Iron &amp;amp; glaze &amp;#8226; Dishwasher safe</g:description>
+    <g:link>https://kasa-ceramics.example/products/vera-30</g:link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/941601-0.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/941601-3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/941601-2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/0855/4155/2462/files/941601-4.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>160.00 EUR</g:price>
+    <g:brand>Kasa Ceramics</g:brand>
+    <g:gtin>6412345600304</g:gtin>
+    <g:mpn>KC0030</g:mpn>
+    <g:google_product_category>721</g:google_product_category>
+    <g:product_type>Home &amp; Garden &gt; Decor &gt; Plant pots</g:product_type>
+    <g:color>Khaki (set of 3)</g:color>
+    <g:material>Iron</g:material>
+    <g:condition>new</g:condition>
+  </item>
+</channel>
+</rss>
